@@ -40,11 +40,64 @@ Final dataset: 918 observations
 
 Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ 
 
-* ####Citation
+* #### Citation
 fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
 * #### Dimension
 The data contains 918 bars and 12 columns.
 
 ### Exploratory Data Analysis
+
+* #### Import Library
+
+* #### Upload Dataset
+
+* #### Read Dataset
+
+* #### Display 5 Samples
+
+* #### Dataset Information
+
+* #### Checking Shape
+
+* #### Checking Missing Value
+
+* #### Checking Data Duplicate
+
+* #### Checking Label Proportion
+
+* #### Descriptive Statistics
+
+* #### Histogram
+
+* #### Pair Plot
+
+* #### Correlation
+
+* #### Checking for Multicollinearity
+
+* #### Data Exploration
+       - #### Age
+       - #### Sex
+       - #### ChestPainType
+       - #### RestingBP
+       - #### Cholesterol
+       - #### FastingBS
+       - #### RestingECG
+       - #### MaxHR
+       - #### ExerciseAngina
+       - #### Oldpeak
+       - #### ST_Slope
+
+* #### Checking Outliers of All Columns
+
+* #### Handling Outliers
+
+### Data Preprocessing
+
+* #### Checking Number of Unique Values of Categorical Features
+
+* #### 
+
+* 
 * 
