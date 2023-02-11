@@ -1,7 +1,7 @@
 ## Heart Failure Prediction Using Random Forest Classifier ##
 ![1](https://user-images.githubusercontent.com/91950433/218257294-4f2de0ff-c859-4239-a7fe-fd04c4c86fc8.png)
 
-* ### This project predicts whether a person has heart disease or not using a Random Forest Classifier model that uses  Hyperparameters Tuning with GridSearchCV to get the best model performance with an Accuracy of 88,04 %, Precision 90,97 %, Recall 88,13 %, and ROC AUC 88,03%.
+* ### This project predicts whether a person has heart disease or not using a Random Forest Classifier model that uses  Hyperparameters Tuning with GridSearchCV to get the best model performance with an Accuracy of 87,68 %, Precision 90,32 %, Recall 88,05 %, and ROC AUC 87,61%.
 
 ### Data Understanding ###
 
@@ -10,3 +10,17 @@
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
+
+* #### Attribute Information
+1. **Age**: age of the patient [years]
+2. **Sex**: sex of the patient [M: Male, F: Female]
+3. **ChestPainType**: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
+4. **RestingBP**: resting blood pressure [mm Hg]
+5. **Cholesterol**: serum cholesterol [mm/dl]
+6. **FastingBS**: fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
+7. **RestingECG**: resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]
+8. **MaxHR**: maximum heart rate achieved [Numeric value between 60 and 202]
+9. **ExerciseAngina**: exercise-induced angina [Y: Yes, N: No]
+10. **Oldpeak**: oldpeak = ST [Numeric value measured in depression]
+11. **ST_Slope**: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
+12. **HeartDisease**: output class [1: heart disease, 0: Normal]
