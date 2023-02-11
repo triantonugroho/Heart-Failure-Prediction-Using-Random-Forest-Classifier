@@ -2,6 +2,10 @@
 
 * ### This project predicts whether a person has heart disease or not using a Random Forest Classifier model that uses  Hyperparameters Tuning with GridSearchCV to get the best model performance with an Accuracy of 87,68 %, Precision 90,32 %, Recall 88,05 %, and ROC AUC 87,61%.
 
+* ### This project has been uploaded in a website portfolio as follows:
+  - #### https://bisa.ai/portofolio/detail/NzU4
+  - #### https://centralai.id/portofolio/detail/46
+  
 ![1](https://user-images.githubusercontent.com/91950433/218257294-4f2de0ff-c859-4239-a7fe-fd04c4c86fc8.png)
 
 ### Data Understanding ###
