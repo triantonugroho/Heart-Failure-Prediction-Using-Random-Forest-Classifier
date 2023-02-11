@@ -122,7 +122,9 @@ The data contains 918 bars and 12 columns.
 
 * #### Hyperparameters Tuning using GridSearchCV
 
-### Test Accuracy Score: 0.8768115942028986
-### Test Precision: 0.9032258064516129
-### Test Recall: 0.8805031446540881
-### Test ROC AUC Score: 0.87614900822448
+### Conclusions
+
+* #### Test Accuracy Score: 0.8768115942028986
+* #### Test Precision: 0.9032258064516129
+* #### Test Recall: 0.8805031446540881
+* #### Test ROC AUC Score: 0.87614900822448
