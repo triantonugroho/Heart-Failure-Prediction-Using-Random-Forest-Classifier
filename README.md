@@ -24,3 +24,27 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 10. **Oldpeak**: oldpeak = ST [Numeric value measured in depression]
 11. **ST_Slope**: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 12. **HeartDisease**: output class [1: heart disease, 0: Normal]
+
+* #### Source
+This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:
+
+Cleveland: 303 observations
+Hungarian: 294 observations
+Switzerland: 123 observations
+Long Beach VA: 200 observations
+Stalog (Heart) Data Set: 270 observations
+Total: 1190 observations
+Duplicated: 272 observations
+
+Final dataset: 918 observations
+
+Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ 
+
+* ####Citation
+fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
+
+* #### Dimension
+The data contains 918 bars and 12 columns.
+
+### Exploratory Data Analysis
+* 
