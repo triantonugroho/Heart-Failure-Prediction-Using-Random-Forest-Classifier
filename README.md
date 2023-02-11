@@ -8,8 +8,6 @@
 
 ![3](https://user-images.githubusercontent.com/91950433/218258665-bac6440d-4481-41ea-8852-edde996b571f.png)
 
-* ### This project predicts whether a person has heart disease or not using a Random Forest Classifier model that uses  Hyperparameters Tuning with GridSearchCV to get the best model performance with an Accuracy of 87,68 %, Precision 90,32 %, Recall 88,05 %, and ROC AUC 87,61%.
-
 ### Data Understanding ###
 
 * #### Context
