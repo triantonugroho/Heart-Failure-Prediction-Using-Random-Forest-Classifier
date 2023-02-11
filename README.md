@@ -4,11 +4,9 @@
 
 ![1](https://user-images.githubusercontent.com/91950433/218257294-4f2de0ff-c859-4239-a7fe-fd04c4c86fc8.png)
 
-![2](https://user-images.githubusercontent.com/91950433/218258656-2d2a814e-527c-470a-ad21-d7304ff20b92.png)
-
-![3](https://user-images.githubusercontent.com/91950433/218258665-bac6440d-4481-41ea-8852-edde996b571f.png)
-
 ### Data Understanding ###
+
+![Data Understanding](https://user-images.githubusercontent.com/91950433/218259390-999265c1-058e-4d69-b0f7-a519751e110d.png)
 
 * #### Context
 
@@ -52,6 +50,8 @@ fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date
 The data contains 918 bars and 12 columns.
 
 ### Exploratory Data Analysis
+
+![Exploratory Data Analysis](https://user-images.githubusercontent.com/91950433/218259404-ec3202f1-57dc-48f1-9b88-04a25ebb3dd6.png)
 
 * #### Import Library
 
@@ -116,6 +116,8 @@ The data contains 918 bars and 12 columns.
 * #### Principal Component Analysis (PCA)
 
 ### Modeling
+
+![Modeling](https://user-images.githubusercontent.com/91950433/218259425-12bc9e24-f90f-4331-b020-af44efff624a.png)
 
 * #### Using Random Forest Classifier for Modeling
 
