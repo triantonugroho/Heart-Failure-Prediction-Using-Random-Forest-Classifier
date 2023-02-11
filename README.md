@@ -77,17 +77,18 @@ The data contains 918 bars and 12 columns.
 * #### Checking for Multicollinearity
 
 * #### Data Exploration
-       - #### Age
-       - #### Sex
-       - #### ChestPainType
-       - #### RestingBP
-       - #### Cholesterol
-       - #### FastingBS
-       - #### RestingECG
-       - #### MaxHR
-       - #### ExerciseAngina
-       - #### Oldpeak
-       - #### ST_Slope
+
+  - Age
+  - Sex
+  - ChestPainType
+  - RestingBP
+  - Cholesterol
+  - FastingBS
+  - RestingECG
+  - MaxHR
+  - ExerciseAngina
+  - Oldpeak
+  - ST_Slope
 
 * #### Checking Outliers of All Columns
 
@@ -97,7 +98,31 @@ The data contains 918 bars and 12 columns.
 
 * #### Checking Number of Unique Values of Categorical Features
 
-* #### 
+* #### Data Transformation
 
-* 
-* 
+* #### Normalization / MinMaxScaler()
+
+* #### Merge the transformed columns
+
+* #### Train-Test Split
+
+* #### Balancing (SMOTE Oversampling)
+
+* #### Principal Component Analysis (PCA)
+
+### Modeling
+
+* #### Using Random Forest Classifier for Modeling
+
+* #### Checking Feature Importance
+
+* #### Model Evaluation
+
+* #### Feature Selection
+
+* #### Hyperparameters Tuning using GridSearchCV
+
+### Test Accuracy Score: 0.8768115942028986
+### Test Precision: 0.9032258064516129
+### Test Recall: 0.8805031446540881
+### Test ROC AUC Score: 0.87614900822448
